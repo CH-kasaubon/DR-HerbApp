@@ -1,0 +1,195 @@
+Name,Biome,Cost (copper),Rarity,1,2,3,4,5,6,7
+Blood Reed,Deep Forest,6,3, ,,,Damage - Acid,Poison - Deadly Sp 0,Damage - Cold,Invigorate
+Dark Narrow Leaf,Deep Forest,18,5, ,Poison - Serious Sp 0,Poison - Mild Sp 2,Poison - Mild,,Poison - Serious Sp 1,Poison - Deadly Sp 0
+Dark Poppy,Deep Forest,4,2, ,Revive,,,Damage - Fire,Poison - Serious Sp 2,Revive
+Dark Reed,Deep Forest,4,4, ,,Fear,,,,Damage - Acid
+Dark Rose,Deep Forest,9,4, ,,Invigorate,Heal,,Poison - Serious Sp 1,Bravery
+Jarl's Lily,Deep Forest,8,4, ,Revive,Damage - Acid,,,, 
+Maiden's Forest Rose,Deep Forest,7,6, ,,Invigorate,,,,Damage - Fire
+Maiden's Fruit,Deep Forest,5,3, ,,Poison - Deadly Sp 0,,Revive,,Poison - Mild Sp 1
+Maiden's Hoarfrost,Deep Forest,1,6, ,,,,,,Damage - Cold
+Maiden's Rose,Deep Forest,3,5, ,,,,,Poison - Mild Sp 0,Damage - Cold
+Medicinal Black Moss,Deep Forest,2,4, ,,,,,Invigorate,Poison - Mild Sp 2
+Medicinal Ivy,Deep Forest,19,6,Revive,,Poison - Serious Sp 0,Damage - Acid,,, 
+Medicinal Leaf,Deep Forest,5,4, ,,,Poison - Mild Sp 0,Invigorate,, 
+Medicinal Lily,Deep Forest,7,2, ,Invigorate,Bravery,Poison - Mild Sp 0,Damage - Cold,, 
+Noble Forest Lily,Deep Forest,18,5,Poison - Serious Sp 0,Poison - Deadly Sp 2,,,Fear,Poison - Serious Sp 1, 
+Noble Narrow Leaf,Deep Forest,4,2, ,Poison - Deadly Sp 1,,,Bravery,Poison - Mild Sp 0,Poison - Serious Sp 1
+Raiders Moss,Deep Forest,3,3, ,,,,Heal,Invigorate, 
+Red Fruit,Deep Forest,3,1, ,Damage - Acid,,Invigorate,Poison - Mild Sp 2,Damage - Cold,Damage - Fire
+Red Hidden Moss,Deep Forest,10,5, ,,,Revive,Invigorate,Poison - Mild Sp 0,Poison - Mild Sp 0
+Sage Hidden Lily,Deep Forest,24,6,Revive,,Invigorate,Poison - Deadly Sp 1,Fear,,Heal
+Sage Moss,Deep Forest,12,4,Damage - Acid,,Poison - Mild Sp 0,,Bravery,, 
+Sage Narrow Leaf,Deep Forest,6,2,Damage - Acid,,,Poison - Mild Sp 0,Damage - Cold,Poison - Serious Sp 2,Fear
+Shaded Broadleaf,Deep Forest,9,6, ,,,Poison - Mild Sp 0,Poison - Serious Sp 1,,Damage - Cold
+Thorny Forest Leaf,Deep Forest,14,4,Damage - Acid,Poison - Mild Sp 2,,,Poison - Deadly Sp 1,Poison - Mild Sp 0, 
+Verdant Broadleaf,Deep Forest,2,1, ,,Damage - Acid,,Heal,Fear,Poison - Mild Sp 1
+Warrior's Forest  Leaf,Deep Forest,17,5, ,Bravery,Poison - Serious Sp 0,,Damage - Acid,Poison - Mild Sp 0,Poison - Deadly Sp 0
+Warrior's Forest Rose,Deep Forest,6,2,Poison - Mild Sp 0,,Damage - Cold,,Stoic,,Invigorate
+Warrior's Narrow Leaf,Deep Forest,2,1, ,,,,Damage - Cold,, 
+Warrior's Rose,Deep Forest,2,4, ,,,,,Invigorate,Revive
+White Broadleaf,Deep Forest,6,4, ,,Poison - Serious Sp 1,,Damage - Acid,, 
+White Forest Lily,Deep Forest,6,6, ,,,Poison - Serious Sp 2,,,Poison - Mild Sp 1
+White Stem,Deep Forest,9,6,Poison - Mild Sp 0,,,,,,Poison - Deadly Sp 0
+Yellow Broadleaf,Deep Forest,2,3, ,,,,Poison - Deadly Sp 2,,Damage - Acid
+Blood Berry,Forest,12,5, ,,Poison - Mild Sp 2,Invigorate,,Poison - Mild Sp 0,Poison - Deadly Sp 2
+Blush Lily,Forest,2,4, ,,,,,Bravery,Invigorate
+Dark Moss,Forest,10,5, ,,,Revive,Damage - Acid,Poison - Deadly Sp 2,Poison - Mild Sp 0
+Diamond Poppy,Forest,10,5, ,,Invigorate,,Heal,Poison - Mild Sp 2, 
+Forest Lily,Forest,3,4, ,,,Stoic,,, 
+Forest Stem,Forest,7,2,Poison - Serious Sp 0,,Poison - Deadly Sp 0,Fear,Poison - Mild Sp 1,, 
+Hero's Lily,Forest,7,5, ,Damage - Acid,,,,,Fear
+Jarl's Green Lily,Forest,2,4, ,,,,,,Poison - Serious Sp 2
+Jarl's Reed,Forest,12,5, ,Poison - Serious Sp 0,Poison - Deadly Sp 1,,,,Poison - Deadly Sp 0
+Leafy Forest Reed,Forest,5,4, ,,,Poison - Serious Sp 0,,Poison - Mild Sp 0,Poison - Serious Sp 0
+Leafy Ivy,Forest,4,5, ,,,,Invigorate,,Poison - Mild
+Medicinal Narrow Leaf,Forest,2,1, ,,Bravery,Invigorate,Poison - Serious Sp 0,Stoic, 
+Medicinal Wood Moss,Forest,4,3, ,,,Invigorate,Damage - Acid,,Invigorate
+Medicinal Wood Reed,Forest,1,2, ,,,,,,Invigorate
+Noble Lily,Forest,16,6, ,Revive,Damage - Cold,,,Poison - Serious Sp 0,Invigorate
+Noble Stem,Forest,10,3, ,Revive,Poison - Mild Sp 0,Invigorate,Bravery,, 
+Poison Ivy,Forest,11,4,Poison - Mild Sp 0,,,Poison - Deadly Sp 2,Fear,, 
+Red Moss,Forest,1,1, ,,,,,Invigorate, 
+Sage Broadleaf,Forest,8,4,Damage - Acid,,,,Damage - Cold,,Invigorate
+Sage Fruit,Forest,2,3, ,,,Invigorate,,, 
+Sage Ivy,Forest,7,4, ,Poison - Mild Sp 2,,,Heal,, 
+Sage Lily,Forest,1,5, ,,,,,,Invigorate
+Thorny Forest Weed,Forest,13,5, ,Poison - Deadly Sp 0,,Damage - Acid,Revive,, 
+Thorny Fruit,Forest,8,4,Fear,,,,Revive,,Revive
+Thorny Moss,Forest,7,6, ,,,,Damage - Cold,Poison - Deadly Sp 0,Damage - Acid
+Thorny Weed,Forest,1,3, ,,,,,,Poison - Mild Sp 1
+Verdant Green Broadleaf,Forest,8,3, ,Invigorate,,Stoic,Poison - Mild,,Revive
+Verdant Narrow Leaf,Forest,6,6, ,,,,Poison - Mild Sp 2,Damage - Fire, 
+Warrior's Berry,Forest,4,2, ,,Invigorate,,Poison - Serious Sp 1,Heal,Poison - Mild Sp 0
+Warrior's Fruit,Forest,3,6, ,,,,,Damage - Acid,Invigorate
+Warrior's Ivy,Forest,6,4, ,,,Invigorate,Poison - Serious Sp 0,,Revive
+Warrior's Poppy,Forest,3,5, ,,,,,Poison - Mild Sp 2,Poison - Serious Sp 0
+Warrior's Stem,Forest,2,3, ,,,,Invigorate,,Heal
+Warrior's Weed,Forest,3,6, ,,,,,Damage - Cold,Revive
+White Fruit,Forest,10,5, ,,Poison - Mild Sp 2,Poison - Serious Sp 0,,,Invigorate
+White Moss,Forest,4,4, ,,,,Invigorate,Damage - Cold, 
+Blood Broadleaf,Grassland,5,4, ,,,Poison - Mild Sp 2,,Bravery,Invigorate
+Blue Fruit,Grassland,16,6,Invigorate,Damage - Fire,,,,,Heal
+Blue Stem,Grassland,1,1, ,,,,Poison - Mild Sp 0,Poison - Serious Sp 1,Damage - Cold
+Blush Broadleaf,Grassland,2,2, ,,,Poison - Deadly Sp 0,,,Damage - Acid
+Blush Stem,Grassland,11,5, ,Invigorate,,Poison - Serious Sp 0,,,Poison - Mild
+Blush Weed,Grassland,12,6, ,,,Poison - Serious Sp 1,Damage - Acid,Revive,Damage - Fire
+Grassland Fruit,Grassland,4,3, ,,,Invigorate,Poison - Mild Sp 2,,Damage - Acid
+Jarl's Narrow Leaf,Grassland,2,1, ,,Invigorate,Poison - Mild Sp 2,Damage - Fire,, 
+Jarl's Stem,Grassland,6,3, ,,Revive,,Poison - Mild Sp 2,Bravery, 
+Leafy Berry,Grassland,6,3, ,,Poison - Deadly Sp 0,Damage - Acid,,,Poison - Mild Sp 1
+Leafy Poppy,Grassland,2,1, ,Fear,,Poison - Serious Sp 2,,,Damage - Acid
+Leafy Stem,Grassland,2,3, ,,,Revive,,, 
+Maiden's Ivy,Grassland,8,4, ,Poison - Mild Sp 2,,,Damage - Acid,,Invigorate
+Maiden's Reed,Grassland,6,6, ,,,,Bravery,Invigorate, 
+Medicinal Moss,Grassland,8,6, ,,,Damage - Fire,,Invigorate,Stoic
+Red Poppy,Grassland,10,4, ,Invigorate,,Heal,,Poison - Deadly Sp 1,Fear
+Red Rose,Grassland,2,2, ,,,,Damage - Cold,Invigorate,Damage - Fire
+Red Stem,Grassland,3,5, ,,,,,Poison - Mild Sp 2,Invigorate
+Sage Poppy,Grassland,1,3, ,,,,,,Revive
+Thorny Broadleaf,Grassland,4,2, ,,Revive,,Poison - Deadly Sp 1,Damage - Acid,Invigorate
+Thorny Poppy,Grassland,9,3, ,Poison - Mild Sp 0,Poison - Serious Sp 0,Poison - Serious Sp 1,,,Damage - Acid
+Thorny Rose,Grassland,3,6, ,,,,,Fear,Revive
+Thorny Runner,Grassland,9,6, ,Revive,,,,Poison - Serious Sp 0, 
+Thorny Stem,Grassland,10,6, ,Damage - Acid,,,,Invigorate,Poison - Mild Sp 0
+Thorny Weed,Grassland,3,6, ,,,,Damage - Acid,, 
+Warrior's Wild Poppy,Grassland,3,2, ,,,Poison - Serious Sp 1,Poison - Mild Sp 0,Poison - Mild Sp 1, 
+White Narrow Leaf,Grassland,8,4, ,Poison - Mild Sp 0,,,Poison - Mild Sp 1,Revive, 
+Wild Sage Poppy,Grassland,3,3, ,,,,Revive,Invigorate, 
+Blood Ivy,Rock,4,5, ,,,,Poison - Serious Sp 1,,Invigorate
+Blood Lily,Rock,14,6, ,Bravery,,,Invigorate,Damage - Fire,Fear
+Blue Broadleaf,Rock,7,6, ,,,Poison - Mild Sp 1,,Damage - Acid, 
+Blue Grass,Rock,6,6, ,,,,Revive,Poison - Serious Sp 0, 
+Blue Moss,Rock,2,5, ,,,,,Damage - Fire, 
+Blush Narrow Leaf,Rock,5,2, ,Poison - Mild Sp 0,Damage - Acid,,,Damage - Cold, 
+Blush Rose,Rock,3,6, ,,,,Invigorate,, 
+Dark Fruit,Rock,2,6, ,,,,,Damage - Acid, 
+Jarl's Grass,Rock,13,6, ,,Revive,,Heal,Bravery,Poison - Mild Sp 1
+Jarl's Moss,Rock,4,3, ,,Damage - Acid,,Heal,, 
+Jarl's Rock Lily,Rock,8,4, ,,Poison - Mild Sp 0,,Poison - Deadly Sp 0,Invigorate, 
+Leafy Moss,Rock,7,5, ,Invigorate,,,,,Damage - Acid
+Maiden's Lily,Rock,6,3, ,,Damage - Cold,,Heal,Revive, 
+Mountain Sage Reed,Rock,7,3, ,,Poison - Mild Sp 0,Damage - Acid,Invigorate,,Stoic
+Noble Broadleaf,Rock,6,4, ,,Bravery,,,Poison - Deadly Sp 1,Invigorate
+Noble Ivy,Rock,6,6, ,,,Invigorate,,,Poison - Serious Sp 1
+Noble Stone Ivy,Rock,9,3, ,Poison - Deadly Sp 0,,Poison - Mild Sp 0,Invigorate,Poison - Deadly Sp 2, 
+Raider's Fern,Rock,19,5, ,Poison - Serious Sp 0,Stoic,Poison - Mild Sp 2,Poison - Mild Sp 1,,Poison - Mild Sp 0
+Red Eagle's Lily,Rock,6,3, ,,Poison - Mild Sp 0,,Poison - Serious Sp 0,Bravery,Invigorate
+Red Narrow Leaf,Rock,7,3,Heal,,Invigorate,,,,Poison - Mild Sp 1
+Red Rock Lily,Rock,12,3, ,Poison - Mild Sp 1,Fear,Fear,Invigorate,Poison - Mild Sp 0,Poison - Serious Sp 0
+Red Stone Lily,Rock,1,1, ,,Invigorate,,Damage - Fire,,Poison - Serious Sp 0
+Rock Fruit,Rock,4,2,Poison - Serious Sp 0,,,,Poison - Mild Sp 1,Poison - Mild Sp 0, 
+Rock Rose,Rock,8,4, ,,Poison - Mild Sp 2,,Heal,Invigorate,Revive
+Sage Long Leaf,Rock,6,5, ,,Damage - Cold,,,,Fear
+Thorny Narrow Leaf,Rock,7,6, ,,,Revive,,Invigorate, 
+Warrior's Moss,Rock,11,5, ,Fear,,Invigorate,,,Poison - Mild Sp 0
+White Berry,Rock,1,2, ,,,Damage - Acid,,, 
+White Rock Weed,Rock,8,6, ,,,Damage - Cold,,Damage - Acid,Invigorate
+White Rose,Rock,10,5, ,Revive,,Invigorate,,, 
+Blush Poppy,Snow,16,6,Poison - Serious Sp 0,Poison - Mild Sp 0,,,,,Poison - Mild Sp2
+Blush Reed,Snow,22,5,Poison - Mild Sp 0,Stoic,Poison - Mild Sp 1,Poison - Serious Sp 0,,, 
+Dark Stem,Snow,4,3, ,,,Revive,,Poison - Mild Sp 2,Poison - Serious Sp 2
+Maiden's Winter Broadleaf,Snow,6,6, ,,,Damage - Acid,,,Invigorate
+Noble Winter Lily,Snow,5,3, ,,Poison - Mild Sp 0,Heal,,, 
+Red Winter Lily,Snow,6,4, ,,,Poison - Mild Sp 0,Poison - Deadly Sp 2,,Revive
+Red Winter Poppy,Snow,4,4, ,,Stoic,,,, 
+Sage Winter Poppy,Snow,3,1, ,,Poison - Serious Sp 2,,Poison - Serious Sp 1,,Invigorate
+Thorny Snow Moss,Snow,7,6, ,,,,Revive,Poison - Mild Sp 1,Stoic
+Verdant Poppy,Snow,9,5, ,Poison - Mild Sp 1,,,,Fear,Heal
+Verdant Winter Reed,Snow,2,1, ,Fear,Poison - Mild Sp 0,,,, 
+Winter Stem,Snow,3,4, ,,,,Revive,,Poison - Serious Sp 0
+Blood Stem,Tundra,1,1, ,,,Revive,Bravery,,Poison - Serious Sp 1
+Blue Reed,Tundra,1,4, ,,,,,,Damage - Acid
+Dark Broadleaf,Tundra,7,3,Damage - Acid,,,,Poison - Serious Sp 2,Damage - Cold, 
+Dark Weed,Tundra,4,4, ,,,Invigorate,,Revive, 
+Green Fruit,Tundra,2,2, ,,,,Poison - Serious Sp 1,Fear,Invigorate
+Jarl's Poppy,Tundra,6,4, ,,Poison - Mild Sp 0,,,Poison - Serious Sp 1,Damage - Fire
+Jarl's Weed,Tundra,16,5, ,Fear,,Poison - Mild Sp 0,Poison - Mild Sp 1,Poison - Serious Sp 2,Poison - Deadly Sp 1
+Jarl's Winter Narrow Leaf,Tundra,6,5, ,,,,Poison - Mild Sp 1,Poison - Mild,Invigorate
+Jarl's Winter Stem,Tundra,5,5, ,,Invigorate,,,, 
+Leafy Reed,Tundra,3,5, ,,,,,Poison - Serious Sp 0,Poison - Mild Sp 0
+Leafy Weed,Tundra,9,3, ,Damage - Cold,Fear,Heal,,, 
+Medicinal Weed,Tundra,1,1, ,,Revive,,Poison - Mild Sp 0,,Bravery
+Medicinal Winter Reed,Tundra,1,3, ,,,,,Poison - Mild Sp 0,Poison - Serious Sp 0
+Noble Reed,Tundra,1,1, ,,,,,Damage - Fire,Poison - Serious Sp 2
+Red Lily,Tundra,7,4, ,Invigorate,,,Fear,, 
+Red Snow Fruit,Tundra,6,6, ,,,,Damage - Cold,Poison - Deadly Sp 2, 
+Rust Moss,Tundra,22,6,Damage - Acid,Poison - Deadly Sp 2,Fear,,,,Bravery
+Sage Reed,Tundra,6,6, ,,,Revive,,,Poison - Mild Sp 1
+Thorny Ivy,Tundra,5,3, ,Invigorate,,,,Damage - Cold,Poison - Mild Sp 1
+Thorny SnowReed,Tundra,8,5, ,,Poison - Mild Sp 1,,,Poison - Serious Sp 1,Invigorate
+Verdant Ivy,Tundra,12,6, ,,,Poison - Deadly Sp 0,Damage - Acid,Revive,Poison - Serious Sp 2
+Verdant Winter Poppy,Tundra,10,6, ,,Heal,Poison - Serious Sp 2,,, 
+Warrior's Snow Fruit,Tundra,2,2, ,,,,Invigorate,Poison - Serious Sp 0,Damage - Acid
+Warrior's Snow Rose,Tundra,8,4, ,,,Damage - Acid,Heal,Damage - Cold,Poison - Mild Sp 2
+White Lily,Tundra,18,6, ,,Revive,Invigorate,Damage - Fire,Poison - Serious Sp 0,Poison - Deadly Sp 1
+White Snow Leaf,Tundra,8,3,Poison - Mild Sp 1,,,Poison - Mild Sp 2,,Poison - Serious Sp 0,Revive
+White Weed,Tundra,15,6, ,Invigorate,,Heal,,Poison - Mild Sp 0,Poison - Mild Sp 1
+Winter Berry,Tundra,3,2, ,,,Invigorate,Revive,Poison - Serious Sp 0, 
+Winter Leafy Berry,Tundra,7,3, ,Damage - Acid,,,Poison - Serious Sp 0,Revive,Revive
+Winter Rose,Tundra,4,3, ,Poison - Mild Sp 1,,,,Revive, 
+Blood Fruit,Wetland,4,2, ,,Damage - Acid,Poison - Serious Sp 1,,Damage - Fire, 
+Blood Moss,Wetland,6,3, ,Poison - Deadly Sp 1,,,Poison - Serious Sp 0,Damage - Cold, 
+Blue Poppy,Wetland,15,6, ,Bravery,,Fear,Poison - Mild Sp 2,, 
+Blue Rose,Wetland,3,1, ,,Invigorate,Damage - Acid,Poison - Serious Sp 0,Damage - Fire,Heal
+Jarl's Broadleaf,Wetland,10,4, ,Poison - Mild Sp 0,,Revive,,Fear,Invigorate
+Jarl's Rose,Wetland,4,3, ,,,Bravery,,Invigorate,Poison - Serious Sp 1
+Leafy Fruit,Wetland,6,4, ,,Poison - Deadly Sp 2,,,Poison - Serious Sp 1,Poison - Mild Sp 0
+Maiden's Broadleaf,Wetland,4,3, ,,,Invigorate,Revive,,Poison - Deadly Sp 0
+Maiden's Lily-Rose,Wetland,4,4, ,,,Damage - Cold,,,Poison - Mild Sp 2
+Maiden's Sea Reed,Wetland,6,5, ,Poison - Serious Sp 2,,,,, 
+Marsh Sage Reed,Wetland,5,4, ,,,Heal,,Revive,Damage - Acid
+Medicinal Broadleaf,Wetland,2,1, ,,Revive,,Poison - Mild Sp 0,Invigorate,Damage - Acid
+Medicinal Reed,Wetland,7,6, ,,,Revive,,Damage - Fire, 
+Medicinal Rose,Wetland,18,6,Invigorate,Poison - Mild Sp 1,,,,Heal, 
+Medicinal Stem,Wetland,2,3, ,,,,Invigorate,,Revive
+Noble Moss,Wetland,4,2, ,Invigorate,,,Bravery,Poison - Mild Sp 2, 
+Sage Willow,Wetland,14,5, ,Poison - Mild Sp 1,,Poison - Mild Sp 0,Damage - Cold,,Damage - Acid
+Thorny Reed,Wetland,3,3, ,,,,Revive,Invigorate,Poison - Mild Sp 1
+Verdant Lily,Wetland,4,2,Damage - Acid,,,Revive,,,Invigorate
+Verdant Reed,Wetland,4,2, ,,Poison - Mild Sp 1,Damage - Fire,,,Poison - Deadly Sp 1
+Verdant Weed,Wetland,17,5,Poison - Serious Sp 0,,,Poison - Mild Sp 2,Revive,Poison - Deadly Sp 1,Poison - Serious Sp 1
+Warrior's Marsh Leaf,Wetland,7,5, ,,,Poison - Mild Sp 1,,Revive,Poison - Mild Sp 0
+Warrior's Reed,Wetland,4,2, ,Invigorate,,Damage - Acid,,Revive, 
+White Ivy,Wetland,12,5, ,,Poison - Mild Sp 0,Poison - Mild Sp 1,,Invigorate,Poison - Mild Sp 1
+White Marsh Lily,Wetland,3,1, ,Poison - Serious Sp 1, ,Fear,Bravery,Poison - Mild Sp 2,Poison - Mild
